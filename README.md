@@ -2,16 +2,19 @@
 Trabajo de Fin de Master - Master Universitario en Ingeniería Biomédica y Salud Digital - Universidad de Sevilla
 
 
-Data
-Submission Format: The format that the submission to the competition must be in.
 
-Test Data Features: The features for the testing dataset
+# Data:
+Submission_Format.csv
+Formato en el que se realizan los submit a la competencia
 
-Training Data Features: The features for the training dataset.
+dengue_features_test.csv
+Features para el dataset de testeo.
 
-Training Data Labels: The number of dengue cases for each row in the training dataset.
+dengue_features_train.csv
+Features para el dataset de entrenamiento.
 
+dengue_labels_train.csv
+Numero de casos para cada una de las filas del dataset de entrenamiento.
 
-
-DengAI:
+# DengAI:
 DrivenData. (2016). DengAI: Predicting Disease Spread. Retrieved from https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/.
