@@ -16,5 +16,11 @@ Features para el dataset de entrenamiento.
 dengue_labels_train.csv
 Numero de casos para cada una de las filas del dataset de entrenamiento.
 
+# Comentarios:
+El script guarda los resultados de las optimizaciones en un archivo .txt para cada uno de los modelos. 
+Si el archivo .txt existe, toma esos valores.
+
+
+
 # DengAI:
 DrivenData. (2016). DengAI: Predicting Disease Spread. Retrieved from https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/.
