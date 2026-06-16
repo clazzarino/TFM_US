@@ -2,7 +2,6 @@
 Trabajo de Fin de Master - Master Universitario en Ingeniería Biomédica y Salud Digital - Universidad de Sevilla
 
 
-
 # Data:
 Submission_Format.csv
 Formato en el que se realizan los submit a la competencia
