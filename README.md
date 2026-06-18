@@ -1,5 +1,5 @@
-# TFM_US
-Trabajo de Fin de Master - Master Universitario en Ingeniería Biomédica y Salud Digital - Universidad de Sevilla
+# Trabajo de Fin de Master 
+# Master Universitario en Ingeniería Biomédica y Salud Digital - Universidad de Sevilla
 
 # 🦟 Machine Learning para la Predicción de la Propagación del Dengue
 
