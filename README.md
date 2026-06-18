@@ -3,7 +3,7 @@ Trabajo de Fin de Master - Master Universitario en Ingeniería Biomédica y Salu
 
 # 🦟 Machine Learning para la Predicción de la Propagación del Dengue
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto presenta el diseño, desarrollo y validación de un sistema predictivo basado en Machine Learning para anticipar la propagación del dengue en entornos urbanos y selváticos. A partir del desafío DengAI de DrivenData, el modelo propone una transición hacia una epidemiología predictiva utilizando datos climáticos y satelitales (NOAA y CDC) de las ciudades de San Juan (Puerto Rico) e Iquitos (Perú). A través de un procesamiento enriquecido de los datos, el algoritmo traduce la biología del vector *Aedes aegypti* a variables matemáticas.
 
 ## DengAI:
