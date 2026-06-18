@@ -1,5 +1,5 @@
-# Trabajo de Fin de Master 
-# Master Universitario en Ingeniería Biomédica y Salud Digital - Universidad de Sevilla
+# Master Universitario en Ingeniería Biomédica y Salud Digital de la Universidad de Sevilla
+# Trabajo de Fin de Master
 
 # 🦟 Machine Learning para la Predicción de la Propagación del Dengue
 
