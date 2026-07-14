@@ -1,0 +1,4 @@
+cost_sj=10
+gamma_sj=0.01
+cost_iq=1
+gamma_iq=0.01
