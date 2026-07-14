@@ -1,0 +1,4 @@
+learning_rate=0.0819211482462245
+num_leaves=22
+feature_fraction=0.751993025762097
+bagging_fraction=1
