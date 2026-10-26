@@ -1,0 +1,8 @@
+sj_nodes1=110
+sj_nodes2=8
+sj_dropout=0.3
+sj_lr=0.00194948162829106
+iq_nodes1=106
+iq_nodes2=60
+iq_dropout=0.254615335574118
+iq_lr=0.00401212445306312
