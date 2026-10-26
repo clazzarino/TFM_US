@@ -14,7 +14,7 @@ El flujo de trabajo contrasta el rendimiento de tres arquitecturas:
 
 1. **LightGBM (Gradient Boosting):** Algoritmo principal que demostró superioridad frente a los datos tabulares ruidosos, ofreciendo el mejor equilibrio de generalización.
 2. **Máquinas de Vectores de Soporte (SVM):** Implementación geométrica (Radial Kernel) optimizada mediante Grid Search.
-3. **Redes Neuronales Artificiales (MLP con Torch):** Implementación nativa en R utilizando el backend de `libtorch` y `luz`, optimizando pesos sinápticos para dependencias no lineales complejas mediante un entorno escalado (Min-Max Scaling).
+3. **Redes Neuronales Artificiales (MLP con Torch)**: Implementación en R utilizando `libtorch` y `luz`, para modelar dependencias no lineales complejas. Las variables predictoras se estandarizan (z-score) con parámetros calculados sobre el entrenamiento, y la variable objetivo se transforma con `log1p` para comprimir los picos epidémicos. Los hiperparámetros se optimizan de forma independiente para cada ciudad, con validación temporal y pérdida MSE.
 
 ### Feature Engineering Biológico
 Para capturar los tiempos biológicos del vector, el pipeline incorpora:
